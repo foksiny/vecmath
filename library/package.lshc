@@ -1,0 +1,9 @@
+{
+  "name": "vecmath",
+  "version": "0.1.0",
+  "author": "foksiny",
+  "publisher": "foksiny",
+  "description": "Vector Math Library",
+  "main": "src/main.lsh",
+  "published_at": "2026-07-07T07:50:27Z"
+}

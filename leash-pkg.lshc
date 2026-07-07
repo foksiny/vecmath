@@ -1,0 +1,7 @@
+# Leashed package configuration
+name: "vecmath"
+version: "0.1.0"
+author: "foksiny"
+description: "Vector Math Library"
+main: "src/main.lsh"
+repo: "https://github.com/foksiny/vecmath.git"
